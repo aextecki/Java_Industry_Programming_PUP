@@ -4,7 +4,7 @@ public class SmallestNumber {
         static int small(int a, int b, int c) {
             if (a < b && a < c) { // check if && or both is true 
                 return a;
-            } else if (b < a && b < c) {
+            } else if (b < a && b < c) { // check if b is less than both a and c
                 return b;
             } else {
                 return c;

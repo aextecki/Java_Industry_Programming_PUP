@@ -11,10 +11,15 @@ public class HelloWorld {
                 System.out.print(i);
         }
 
-        do while (i <5) {
+        do {
             System.out.println(i);
             i++;
-        
+        } while (i < 5);
+    }
+}
+
+}
+
  
         
 

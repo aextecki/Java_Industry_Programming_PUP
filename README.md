@@ -1,3 +1,5 @@
-My Solutions and Seatwork,Assignment also for the Midterm Exam 2025.. 
+My Solutions and Seatwork,Assignment also Finals for the Midterm Exam and Finals 2025.. 
 
 MSIT - PUP open university
+
+Final Program: MicrofinanceManagement 

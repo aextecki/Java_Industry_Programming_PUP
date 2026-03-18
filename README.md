@@ -2,4 +2,4 @@ My Solutions and Seatwork,Assignment also Finals for the Midterm Exam and Finals
 
 MSIT - PUP open university
 
-Final Program: MicrofinanceManagement with MariaDB backend for data persistence
+Final Program: Micro finance Management with MariaDB backend for data persistence
